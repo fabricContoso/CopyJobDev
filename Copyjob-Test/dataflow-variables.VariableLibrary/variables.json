@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/variableLibrary/definition/variables/1.0.0/schema.json",
+  "variables": [
+    {
+      "name": "WorkspaceId",
+      "note": "",
+      "type": "Guid",
+      "value": "a8ed1cde-aed9-4be7-b12b-cb1ea5d5c65d"
+    },
+    {
+      "name": "LakehouseId",
+      "note": "",
+      "type": "Guid",
+      "value": "544866e8-0808-4608-8848-161998da5993"
+    },
+    {
+      "name": "WarehouseId",
+      "note": "",
+      "type": "Guid",
+      "value": "9f76d76b-1532-46e2-a62a-61d2cb7f3d5a"
+    },
+    {
+      "name": "Region",
+      "note": "",
+      "type": "String",
+      "value": "Sweden"
+    }
+  ]
+}
